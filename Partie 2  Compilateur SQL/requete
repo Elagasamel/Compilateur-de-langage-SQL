@@ -1,0 +1,8 @@
+create table admin (userid , username );
+DELETE FROM user where userid =3;
+INSERT INTO user (username) VALUES (amel);
+update user set username=amel woo where id=1 ; 
+SELECT * FROM user;  
+create table films (idFilm number, titre varchar,realisateur varchar);
+select ;
+
